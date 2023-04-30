@@ -7,6 +7,15 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php 
+        
+        //==
+        if(3 == 2) {
+            echo 'Verdadeiro';
+        } else {
+            echo 'Falso';
+
+        }
+    ?>
 </body>
 </html>
